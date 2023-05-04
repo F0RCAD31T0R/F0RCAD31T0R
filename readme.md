@@ -1,6 +1,6 @@
 
 
-## What's up? 👋
+## Hey! 👋
 
 ### I'm F0RCAD31T0R, a programmer now learning
 
