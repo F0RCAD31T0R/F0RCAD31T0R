@@ -21,3 +21,20 @@
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F0RCAD31T0R&layout=compact&theme=dark" alt="Top Langs" /> 
  </p>
 <code><img height="20"
+### My Favorite Repos 
+ <p align="left"> 
+   <a href="https://github.com/cosmo-lang/cosmo"> 
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=R-unic&repo=cosmo&theme=dark" /> 
+   </a> 
+   <a href="https://github.com/R-unic/crystallizer"> 
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=R-unic&repo=crystallizer&theme=dark" /> 
+   </a> 
+ </p> 
+ <p align="left"> 
+   <a href="https://github.com/R-unic/WizWikiAPI"> 
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=R-unic&repo=WizWikiAPI&theme=dark" /> 
+   </a> 
+   <a href="https://github.com/R-unic/Luay"> 
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=R-unic&repo=Luay&theme=dark" /> 
+   </a> 
+ </p>
