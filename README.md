@@ -21,7 +21,7 @@
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F0RCAD31T0R&layout=compact&theme=dark" alt="Top Langs" /> 
  </p>
 
-### Amazing repos made by [r-unic](https://github.com/R-unic) 
+### Amazing repos made by [r-unic] (https://github.com/R-unic) 
  <p align="left"> 
    <a href="https://github.com/cosmo-lang/cosmo"> 
      <img src="https://github-readme-stats.vercel.app/api/pin/?username=R-unic&repo=cosmo&theme=dark" /> 
