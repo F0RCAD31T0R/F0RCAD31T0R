@@ -21,8 +21,7 @@
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F0RCAD31T0R&layout=compact&theme=dark" alt="Top Langs" /> 
  </p>
 
-<br/> I also own [Paragon Studios](https://github.com/Paragon-Studios).
-<br/> 
+# Check out these amazing repos made by [R-unic](https://github.com/r-unic)
  <p align="left"> 
    <a href="https://github.com/cosmo-lang/cosmo"> 
      <img src="https://github-readme-stats.vercel.app/api/pin/?username=R-unic&repo=cosmo&theme=dark" /> 
