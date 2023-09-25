@@ -1,6 +1,6 @@
 
 
-## Hey! 👋
+### Hey! 👋
 
 ## Aspiring programmer, and part-time gamer. I also own [Paragon Studios](https://github.com/Paragon-Studios), now learning
 
