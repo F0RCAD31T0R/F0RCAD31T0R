@@ -9,6 +9,10 @@
  <code><img height="28"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"></code> 
   
  <br/><br/> 
+ <p align="left"> 
+   <img src="https://github-readme-stats.vercel.app/api?username=F0RCAD31T0R&show_icons=true&theme=dark" alt="Contributions" /> 
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F0RCAD31T0R&layout=compact&theme=dark" alt="Top Langs" /> 
+ </p>
 
 > <br/> Check out these amazing repos made by [R-unic](https://github.com/r-unic).
 <br/> 
@@ -27,8 +31,4 @@
    <a href="https://github.com/R-unic/Luay"> 
      <img src="https://github-readme-stats.vercel.app/api/pin/?username=R-unic&repo=Luay&theme=dark" /> 
    </a> 
- </p>
- <p align="left"> 
-   <img src="https://github-readme-stats.vercel.app/api?username=F0RCAD31T0R&show_icons=true&theme=dark" alt="Contributions" /> 
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F0RCAD31T0R&layout=compact&theme=dark" alt="Top Langs" /> 
  </p>
