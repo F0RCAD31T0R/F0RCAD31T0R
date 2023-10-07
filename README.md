@@ -1,6 +1,7 @@
 ## Hey! 👋 
 > I'm Forca, an aspiring programmer and part-time gamer.<br/> I also own [Paragon Studios](https://github.com/Paragon-Studios).
-<br/>> <br/> Check out these amazing repos made by [R-unic](https://github.com/r-unic).
+<br/> <br/> 
+Check out these amazing repos made by [R-unic](https://github.com/r-unic).
 <br/> 
  <p align="left"> 
    <a href="https://github.com/cosmo-lang/cosmo"> 
