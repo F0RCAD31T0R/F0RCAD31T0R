@@ -6,7 +6,6 @@
  <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=F0RCAD31T0R&label=Profile%20views&color=0e75b6&style=flat" alt="F0RCAD31T0R" /> 
  </p> 
-<br/><br/> 
 <p align="left"> 
    <img src="https://github-readme-stats.vercel.app/api?username=F0RCAD31T0R&show_icons=true&theme=dark" alt="Contributions" /> 
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F0RCAD31T0R&layout=compact&theme=dark" alt="Top Langs" /> 
