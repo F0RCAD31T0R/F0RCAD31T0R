@@ -1,5 +1,5 @@
 ## Hey! 👋 
-> I'm Forcadeitor, an aspiring programmer and part-time gamer.<br/> I also own [Paragon Studios](https://github.com/Paragon-Studios).
+> I'm Forcadeitor, an aspiring programmer and full-time gamer.<br/> I also own [Paragon Studios](https://github.com/Paragon-Studios).
 <br/> 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=F0RCAD31T0R&label=Profile%20views&color=0e75b6&style=flat" alt="F0RCAD31T0R" />
